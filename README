@@ -1,10 +1,10 @@
 Node Gravatar
-
+===========
 
 Simple module to generate Gravatar URL, can be used with existing Node.js blogging frameworks:
 
 Installation:
-
+--------------------
 If you have "npm" installed then just do the following
 npm install node-gravatar
 
