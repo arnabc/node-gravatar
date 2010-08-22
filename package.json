@@ -1,18 +1,14 @@
 {
-    'name': 'node-gravatar',
-    'version': '1.0.0',
-    'description': 'Node.js Gravatar URL generator, useful for using with Node.js blogging frameworks',
-    'author': 'Arnab Chakraborty',
-    'email': 'arnabc@webgyani.com',
-    'directories': {
-        'lib': './lib/'
+    "name": "node-gravatar",
+    "version": "1.0.0",
+    "description": "Node.js Gravatar URL generator, useful for using with Node.js blogging frameworks",
+    "author": "Arnab Chakraborty",        
+    "main": "./lib/gravatar",
+    "repositories": {
+        "type": "git",
+        "url": "git://github.com/arnabc/node-gravatar.git"
     },
-    'main': './lib/gravatar',
-    'repositories': {
-        'type': 'git',
-        'url': 'git://github.com/arnabc/node-gravatar.git'
-    },
-    'engines': {
-        'node': '>=0.1.103'
+    "engines": {
+        "node": ">=0.1.103"
     }
 }
