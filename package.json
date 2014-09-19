@@ -4,7 +4,7 @@
     "description": "Node.js Gravatar URL generator, useful for using with Node.js blogging frameworks",
     "author": "Arnab Chakraborty",        
     "main": "./lib/gravatar",
-    "repositories": {
+    "repository": {
         "type": "git",
         "url": "git://github.com/arnabc/node-gravatar.git"
     },
