@@ -1,6 +1,6 @@
 {
     "name": "node-gravatar",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Node.js Gravatar URL generator, useful for using with Node.js blogging frameworks",
     "author": "Arnab Chakraborty",        
     "main": "./lib/gravatar",
